@@ -58,4 +58,4 @@ The Vanilla RNN model was found to be the most effective for this specific finan
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction-rnn.git
+   git clone https://github.com/rohanpadaya/stock-price-prediction-rnn.git
